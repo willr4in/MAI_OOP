@@ -19,6 +19,7 @@ make build
 ```
 make run
 ```
+
 #### Run tests:
 ```
 make test
