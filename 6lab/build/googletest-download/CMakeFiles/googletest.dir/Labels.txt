@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/CMakeFiles/googletest
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/CMakeFiles/googletest.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/CMakeFiles/googletest-complete.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/home/willrain/OOP/MAI_OOP/5lab/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libseclab_lib.a CMakeFiles/seclab_lib.dir/src/NPC.cpp.o CMakeFiles/seclab_lib.dir/src/bear.cpp.o CMakeFiles/seclab_lib.dir/src/elf.cpp.o CMakeFiles/seclab_lib.dir/src/factory.cpp.o CMakeFiles/seclab_lib.dir/src/observer.cpp.o CMakeFiles/seclab_lib.dir/src/thug.cpp.o
+/usr/bin/ranlib libseclab_lib.a

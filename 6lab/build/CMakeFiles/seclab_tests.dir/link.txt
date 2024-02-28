@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/seclab_tests.dir/tests/tests.cpp.o -o seclab_tests  libseclab_lib.a lib/libgtest_main.a lib/libgtest.a 
