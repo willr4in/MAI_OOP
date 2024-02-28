@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/5lab_exe.dir/run.cpp.o -o 5lab_exe  lib5lab_lib.a 

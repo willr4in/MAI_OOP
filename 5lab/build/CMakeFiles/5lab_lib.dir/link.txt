@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib5lab_lib.a CMakeFiles/5lab_lib.dir/src/allocator.cpp.o CMakeFiles/5lab_lib.dir/src/stack.cpp.o
+/usr/bin/ranlib lib5lab_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/5lab_tests.dir/tests/tests.cpp.o -o 5lab_tests  lib5lab_lib.a lib/libgtest_main.a lib/libgtest.a 
