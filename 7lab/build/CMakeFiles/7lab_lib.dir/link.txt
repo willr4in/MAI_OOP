@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib7lab_lib.a CMakeFiles/7lab_lib.dir/src/bear.cpp.o CMakeFiles/7lab_lib.dir/src/elf.cpp.o CMakeFiles/7lab_lib.dir/src/npc.cpp.o CMakeFiles/7lab_lib.dir/src/thug.cpp.o
+/usr/bin/ranlib lib7lab_lib.a
